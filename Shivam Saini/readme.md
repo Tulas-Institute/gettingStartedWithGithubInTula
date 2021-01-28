@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsn97" alt="shivamsn97" /> </p>
 
+
+- 🔭 I’m studying at **Tula's Institute ;)**
+
 - 🔭 I’m currently working on **Secret Project ;)**
 
 - 🌱 I’m currently learning **Django**
